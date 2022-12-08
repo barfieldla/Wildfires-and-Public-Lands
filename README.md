@@ -17,3 +17,5 @@ The creation of this map was inspired by the Outside Online article <a href="htt
 While the web map is heavy on point data, the intent is to display <i>just how many fires</i> that burned over 5000 acres occurred over the last thirty years. 
 
 While some mitigation tactics have been successful, the intensity of these wildfires will continue to grow with the increasing impacts of climate change, the loss of cultural Indigenous burning practices, and drought across the western states. 
+
+Data attribution: <a href= "https://doi.org/10.2737/RDS-2013-0009.6">USFS</a> | <a href="http://openstreetmap.org">OpenStreetMap</a> contributors
